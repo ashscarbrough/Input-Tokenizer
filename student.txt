@@ -1,0 +1,4 @@
+1001|3.29|Janet|King
+2002|2.34|Wilson|Dow
+1002|3.49|Lee|Joe
+5004|2.64|Bangd|Howie
